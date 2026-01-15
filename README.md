@@ -13,7 +13,7 @@ Sistem Chatbot berbasis **Retrieval-Augmented Generation (RAG)** yang menggunaka
 ## ⚙️ Persiapan
 1. **Clone Repository**:
    ```bash
-   git clone [https://github.com/username/rag-chatbot-project.git](https://github.com/username/rag-chatbot-project.git)
+   git clone https://github.com/username/rag-chatbot-project.git
    cd rag-chatbot-project
    ```
 2. **Masukkan OpenRouter API key pada file .env**:
